@@ -2,7 +2,7 @@
   "name": "hostel-management-system",
   "version": "1.0.0",
   "description": "hostel management system",
-  "main": "index.html",
+  "main": "../frontend/html/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
