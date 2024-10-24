@@ -1,0 +1,11 @@
+{
+  "name": "hostel-management-system",
+  "version": "1.0.0",
+  "description": "hostel management system",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gouri kashyap,aqsa ahmad,akshita sharma,irma ahmad,aeiman ansari",
+  "license": "ISC"
+}
